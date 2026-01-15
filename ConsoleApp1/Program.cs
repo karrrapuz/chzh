@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Васап");
+            Console.WriteLine("как делишки у моей малышки");
         }
     }
 }
